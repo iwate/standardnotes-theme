@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "style.css",
     "sn": {
-      "main": "dist/dist.css"
+      "main": "style.css"
     },
     "repository": {
       "type": "https",
