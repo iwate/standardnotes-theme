@@ -1,0 +1,12 @@
+{
+    "name": "iwate-standardnotes-theme",
+    "version": "1.0.0",
+    "main": "style.css",
+    "sn": {
+      "main": "dist/dist.css"
+    },
+    "repository": {
+      "type": "https",
+      "url": "https://github.com/iwate/standardnotes-theme.git"
+    }
+  }

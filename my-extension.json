@@ -1,0 +1,16 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "me.iwate.standardnotes-theme",
+  "name": "My Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "change font-family",
+  "url": "https://github.com/iwate/standardnotes-theme",
+  "download_url": "https://github.com/iwate/standardnotes-theme/archive/1.0.0.zip",
+  "marketing_url": "https://github.com/iwate/standardnotes-theme",
+  "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+}
