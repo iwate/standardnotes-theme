@@ -1,6 +1,6 @@
 {
     "name": "iwate-standardnotes-theme",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "main": "style.css",
     "sn": {
       "main": "style.css"
