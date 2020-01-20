@@ -1,4 +1,3 @@
-
-#note-text-editor {
-    font-family: "Migu 1M", Menlo, Consolas, "DejaVu Sans Mono", monospace !important;
+:root {
+    --sn-stylekit-monospace-font: "Migu 1M", Menlo, Consolas, "DejaVu Sans Mono", monospace;
 }
